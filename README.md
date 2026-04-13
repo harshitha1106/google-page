@@ -62,7 +62,7 @@ google-page/
 
 ## Screenshots
 
-> <img width="614" height="318" alt="image" src="https://github.com/user-attachments/assets/093fdd76-d384-4d41-8cce-a4f18dbfe2f2" />
+<img width="601" height="559" alt="image" src="https://github.com/user-attachments/assets/1d3a8b65-e9e3-4231-8522-23894a81240c" />
 
 <img width="614" height="318" alt="image" src="https://github.com/user-attachments/assets/7daba0e2-d172-46a9-8990-511adc0e319e" />
 
